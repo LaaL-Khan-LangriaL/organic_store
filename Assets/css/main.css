@@ -1,0 +1,90 @@
+
+
+/*<<<<<<<<<<<<<<<<<<<<<<<<<<Main Slider Caption Colors Start>>>>>>>>>>>>>>>>>>*/
+
+#slide1 {
+
+color: yellow;
+	
+}
+
+#slide2 {
+
+color: yellow;
+	
+}
+
+#slide3 {
+
+color: yellow;
+	
+}
+
+
+
+
+
+
+
+						/*<<<<<<<<<<<<<<<<<<<FRUITS CATAGORIE ID'S>>>>>>>>>>>>>>>>>>>*/
+
+	#fruit{
+
+		padding-top: 65px;
+	}
+
+
+
+
+.marketing .col-lg4 {
+
+	margin-bottom: 1.5rem;
+	text-align: center;
+}
+
+.marketing h2{
+
+	font-weight: 400;
+}
+
+.marketing .col-lg4 {
+
+	margin-right: .75rem;
+	margin-left: .75rem;
+}
+
+.featurette-divider {
+
+	margin-bottom: 5rem 0;
+}
+
+
+.featurette-heading {
+
+	font-weight: 300;
+	line-height: 1;
+	letter-spacing: -0.5rem;
+}
+
+
+@media (min-width:40em){
+
+	.featurette-heading {
+		font-size: 50px;
+	}
+}
+
+@media (min-width:62em){
+
+	.featurette-heading {
+		margin-top: 7rem;
+	}
+}
+
+
+@media (min-width:62em){
+
+	.carousel .figuritas {
+		display: none;
+	}
+}
